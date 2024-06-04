@@ -1,0 +1,50 @@
+#piu1 {
+ background-color: rgb(26, 80, 197);
+ color: rgb(27, 4, 34);
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 25px;
+ padding: 30px;
+}
+#piu1:hover {
+    background-color: blue;
+    transition: cubic-bezier(.17,.67,.83,.67);
+    text-decoration: underline;
+    font-family: cursive;
+}
+#piu2 {
+    background-color: rgb(114, 41, 148);
+    color: rgb(27, 4, 34);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+   }
+   #piu2:hover {
+       background-color: rgb(28, 28, 204);
+       transition: cubic-bezier(.1,.67,.83,.67);
+       text-decoration: underline;
+       font-family: cursive;
+   }
+   #piu3 {
+    background-color: rgb(135, 216, 28);
+    color: rgb(27, 4, 34);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+   }
+   #piu3:hover {
+       background-color: rgb(139, 139, 204);
+       transition: cubic-bezier(.1,.67,.83,.67);
+       text-decoration: underline;
+       font-family: cursive;
+   }
+   #piu4 {
+    background-color: rgb(171, 102, 202);
+    color: rgb(7, 106, 172);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+   }
+   #piu4:hover {
+       background-color: rgb(19, 138, 112);
+       transition: cubic-bezier(.1,.67,.83,.67);
+       text-decoration: underline;
+       font-family: cursive;
+   }
+   
